@@ -71,7 +71,8 @@ ul {
   #icons{
       text-align: center;
       padding-top: 5%;
-      bottom: 50%;
+      position: relative;
+      bottom: 100%;
   }
   .texts{
     font-family: 'Lemonada', cursive;
@@ -91,4 +92,9 @@ ul {
   #click{
       text-align: center;
       font-family: 'Sriracha', cursive;
+  }
+  .me{
+      text-align: center;
+      font-family: 'Lemonada', cursive;
+
   }
