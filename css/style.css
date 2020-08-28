@@ -32,10 +32,12 @@ h1{
     font-family: 'Lemonada', cursive;
 }
 #body{
-    background-color: rgb(193, 199, 211);
+    background-image: url("/images/9345164_f8483d1e-0997-4933-988e-f9a602ea875b_1600x952.jpg");
+    width: 100%;
     background-attachment: fixed;
-    background-size: cover;
+    opacity: 80%;
 }
+
 #pic:hover{
     -ms-transform: scale(1.5);
   -webkit-transform: scale(1.5);
