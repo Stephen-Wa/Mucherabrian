@@ -29,10 +29,12 @@ h1{
     font-family: 'Lemonada', cursive;
 }
 #body{
-    background-color: rgb(193, 199, 211);
-    background-attachment: fixed;
-    background-size: cover;
+background-image: url("/images/cam.jpg");
+background-attachment: fixed;
+width: 100%;
+opacity: 85%;
 }
+
 #pic:hover{
     -ms-transform: scale(1.5);
   -webkit-transform: scale(1.5);
